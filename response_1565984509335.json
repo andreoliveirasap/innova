@@ -1,0 +1,44 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://analytics-thing-sap.cfapps.eu10.hana.ondemand.com:443/measurements(id='5824BF43407A4141853F6E14A24F7F38',time=datetime'2019-08-06T05%3A24%3A58.734')",
+          "uri": "https://analytics-thing-sap.cfapps.eu10.hana.ondemand.com:443/measurements(id='5824BF43407A4141853F6E14A24F7F38',time=datetime'2019-08-06T05%3A24%3A58.734')",
+          "type": "innovator.challengecf.learninglab.sao.team34_PlastInject_envData"
+        },
+        "id": "5824BF43407A4141853F6E14A24F7F38",
+        "time": "/Date(1565069098734)/",
+        "team34_room_temperature": "1.37",
+        "team34_mold_temperature": "2.98",
+        "team34_water_temperature": "3.67",
+        "team34_water_flow": "4.05",
+        "team34_left_pressure": "5.6",
+        "team34_right_pressure": "6.7",
+        "_ThingType": "innovator.challengecf.learninglab.sao:PlasticInjectionMachine",
+        "_NPST": "team34_PlastInject_envData",
+        "thingType": "innovator.challengecf.learninglab.sao:PlasticInjectionMachine",
+        "path": "team34_PlastInject_envData"
+      },
+      {
+        "__metadata": {
+          "id": "https://analytics-thing-sap.cfapps.eu10.hana.ondemand.com:443/measurements(id='5824BF43407A4141853F6E14A24F7F38',time=datetime'2019-08-06T05%3A23%3A54.036')",
+          "uri": "https://analytics-thing-sap.cfapps.eu10.hana.ondemand.com:443/measurements(id='5824BF43407A4141853F6E14A24F7F38',time=datetime'2019-08-06T05%3A23%3A54.036')",
+          "type": "innovator.challengecf.learninglab.sao.team34_PlastInject_envData"
+        },
+        "id": "5824BF43407A4141853F6E14A24F7F38",
+        "time": "/Date(1565069034036)/",
+        "team34_room_temperature": "1.0",
+        "team34_mold_temperature": "2.0",
+        "team34_water_temperature": "3.0",
+        "team34_water_flow": "4.0",
+        "team34_left_pressure": "5.0",
+        "team34_right_pressure": "6.0",
+        "_ThingType": "innovator.challengecf.learninglab.sao:PlasticInjectionMachine",
+        "_NPST": "team34_PlastInject_envData",
+        "thingType": "innovator.challengecf.learninglab.sao:PlasticInjectionMachine",
+        "path": "team34_PlastInject_envData"
+      }
+    ]
+  }
+}
